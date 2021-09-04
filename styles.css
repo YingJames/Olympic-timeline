@@ -1,6 +1,11 @@
 /* CSS Document */
-/*
+/* 
 body {
 	background: black;
+} */
+
+.c--timeline__bullet {
+  width: 15px;
+  height: 15px;
 }
-*/
+
